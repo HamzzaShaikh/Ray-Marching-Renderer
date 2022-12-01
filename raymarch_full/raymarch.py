@@ -13,7 +13,7 @@ if __name__ == '__main__':
     IMPORTANT_NOTE: DO NOT RERUN ANY OF THE OLD FILES, ITLL GET RID OF THE CURRENT SAVED IMAGES
     MAKE A NEW JSON AND RUN THAT TO TEST NEW SCENES / REDO OLD SCENES
     """
-    scene_json_files = ["scenedir.json"]
+    scene_json_files = ["scene1.json"]
     for scene_json in scene_json_files:
         N_THREADS = 16
         SATURATION = 1
