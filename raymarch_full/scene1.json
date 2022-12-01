@@ -1,0 +1,57 @@
+{
+    "camera": {
+        "position": [0, 0, 4],
+        "up": [0, 0, 1],
+        "forward": [1, 0, 0],
+        "pixel_width": 160,
+        "pixel_height": 90,
+        "fov": 90
+    },
+    "objects": [
+        {
+            "type": "sphere",
+            "position": [15, 0, 4],
+            "radius": 4,
+            "material": {
+                "ambient": [0.5, 0.5, 0.5],
+                "diffuse": [0.5, 0.5, 0.5],
+                "spectral": [0.5, 0.5, 0.5],
+                "spectral_p": 1
+            }
+        },
+        {
+            "type": "plane",
+            "position": [0, 0, 0],
+            "normal": [0, 0, 1],
+            "material": {
+                "ambient": [0.5, 0.5, 0.5],
+                "diffuse": [0.5, 0.5, 0.5],
+                "spectral": [0.5, 0.5, 0.5],
+                "spectral_p": 1
+            }
+        },
+        {
+            "type": "plane",
+            "position": [50, 0, 0],
+            "normal": [-1, 0, 0],
+            "material": {
+                "ambient": [0.5, 0.5, 0.5],
+                "diffuse": [0.5, 0.5, 0.5],
+                "spectral": [0.5, 0.5, 0.5],
+                "spectral_p": 1
+            }
+        }
+    ],
+    "lights": [
+        {
+            "type": "point",
+            "position": [10, -10, 50],
+            "color": [1, 0, 0]
+        },
+        {
+            "type": "directional",
+            "direction": [0, -1, -1],
+            "color": [0, 0, 1]
+        }
+    ]
+}

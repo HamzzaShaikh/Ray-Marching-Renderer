@@ -1,0 +1,228 @@
+{
+    "camera": {
+        "position": [0, 0, 4],
+        "up": [0, 0, 1],
+        "forward": [1, 0, 0],
+        "pixel_width": 1920,
+        "pixel_height": 1080,
+        "fov": 90
+    },
+    "objects": [
+        {
+            "type": "sphere",
+            "position": [4, -0.15, 4.95],
+            "radius": 0.03,
+            "material": {
+                "ambient": [0,0,0],
+                "diffuse": [0, 0, 0.4],
+                "spectral": [0.8, 0.8, 0.8],
+                "spectral_p": 0.2
+            }
+        },
+        {
+            "type": "sphere",
+            "position": [4, 0.15, 4.95],
+            "radius": 0.03,
+            "material": {
+                "ambient": [0,0,0],
+                "diffuse": [0, 0, 0.4],
+                "spectral": [0.8, 0.8, 0.8],
+                "spectral_p": 0.2
+            }
+        },
+        {
+            "type": "sphere",
+            "position": [4, 0, 4.9],
+            "radius": 0.03,
+            "material": {
+                "ambient": [1,0.588,0.1],
+                "diffuse": [0, 0, 0.4],
+                "spectral": [0.8, 0.8, 0.8],
+                "spectral_p": 0.2
+            }
+        },
+        {
+            "type": "sphere",
+            "position": [4, 0, 4.8],
+            "radius": 0.027,
+            "material": {
+                "ambient": [0,0,0],
+                "diffuse": [0, 0, 0.4],
+                "spectral": [0.8, 0.8, 0.8],
+                "spectral_p": 0.2
+            }
+        },
+        {
+            "type": "sphere",
+            "position": [4, -0.06, 4.82],
+            "radius": 0.027,
+            "material": {
+                "ambient": [0,0,0],
+                "diffuse": [0, 0, 0.4],
+                "spectral": [0.8, 0.8, 0.8],
+                "spectral_p": 0.2
+            }
+        },
+        {
+            "type": "sphere",
+            "position": [4, 0.06, 4.82],
+            "radius": 0.027,
+            "material": {
+                "ambient": [0,0,0],
+                "diffuse": [0, 0, 0.4],
+                "spectral": [0.8, 0.8, 0.8],
+                "spectral_p": 0.2
+            }
+        },
+        {
+            "type": "sphere",
+            "position": [4, 0, 4.1],
+            "radius": 0.03,
+            "material": {
+                "ambient": [0,0,0],
+                "diffuse": [0, 0, 0.4],
+                "spectral": [0.8, 0.8, 0.8],
+                "spectral_p": 0.2
+            }
+        },
+        {
+            "type": "sphere",
+            "position": [4, 0, 4.2],
+            "radius": 0.03,
+            "material": {
+                "ambient": [0,0,0],
+                "diffuse": [0, 0, 0.4],
+                "spectral": [0.8, 0.8, 0.8],
+                "spectral_p": 0.2
+            }
+        },
+        {
+            "type": "sphere",
+            "position": [4, 0, 4.3],
+            "radius": 0.03,
+            "material": {
+                "ambient": [0,0,0],
+                "diffuse": [0, 0, 0.4],
+                "spectral": [0.8, 0.8, 0.8],
+                "spectral_p": 0.2
+            }
+        },
+        {
+            "type": "sphere",
+            "position": [4, 0, 4.4],
+            "radius": 0.03,
+            "material": {
+                "ambient": [0,0,0],
+                "diffuse": [0, 0, 0.4],
+                "spectral": [0.8, 0.8, 0.8],
+                "spectral_p": 0.2
+            }
+        },
+        {
+            "type": "sphere",
+            "position": [4, 0, 4.5],
+            "radius": 0.03,
+            "material": {
+                "ambient": [0,0,0],
+                "diffuse": [0, 0, 0.4],
+                "spectral": [0.8, 0.8, 0.8],
+                "spectral_p": 0.2
+            }
+        },
+        {
+            "type": "sphere",
+            "position": [4, 0, 4.62],
+            "radius": 0.03,
+            "material": {
+                "ambient": [0.6,0,0],
+                "diffuse": [0, 0, 0.4],
+                "spectral": [0.8, 0.8, 0.8],
+                "spectral_p": 0.2
+            }
+        },
+        {
+            "type": "sphere",
+            "position": [4, 0.06, 4.62],
+            "radius": 0.04,
+            "material": {
+                "ambient": [0.6,0,0],
+                "diffuse": [0, 0, 0.4],
+                "spectral": [0.8, 0.8, 0.8],
+                "spectral_p": 0.2
+            }
+        },
+        {
+            "type": "sphere",
+            "position": [4, -0.06, 4.62],
+            "radius": 0.04,
+            "material": {
+                "ambient": [0.6,0,0],
+                "diffuse": [0, 0, 0.4],
+                "spectral": [0.8, 0.8, 0.8],
+                "spectral_p": 0.2
+            }
+        },
+        {
+            "type": "sphere",
+            "position": [8, 0, 2.55],
+            "radius": 1.4,
+            "material": {
+                "ambient": [0.9, 0.9, 0.9],
+                "diffuse": [0, 0, 0.4],
+                "spectral": [0.8, 0.8, 0.8],
+                "spectral_p": 0.2
+            }
+        },
+        {
+            "type": "sphere",
+            "position": [8, 0, 4.35],
+            "radius": 1,
+            "material": {
+                "ambient": [0.9, 0.9, 0.9],
+                "diffuse": [0, 0, 0.4],
+                "spectral": [0.8, 0.8, 0.8],
+                "spectral_p": 0.2
+            }
+        },
+        {
+            "type": "sphere",
+            "position": [8, 0, 5.8],
+            "radius": 0.64,
+            "material": {
+                "ambient": [0.9, 0.9, 0.9],
+                "diffuse": [0, 0, 0.4],
+                "spectral": [0.8, 0.8, 0.8],
+                "spectral_p": 0.2
+            }
+        },
+        {
+            "type": "plane", 
+            "position": [0, 0, 0],
+            "normal": [0, 0, 1],
+            "material": {
+                "ambient": [0.8, 0.8, 0.8],
+                "diffuse": [0.5, 0.5, 0.5],
+                "spectral": [0.2, 0.2, 0.2],
+                "spectral_p": 1
+            }
+        },
+        {
+            "type": "plane",
+            "position": [50, 0, 0],
+            "normal": [-1, 0, 0],
+            "material": {
+                "ambient": [0.43, 0.674, 0.79],
+                "diffuse": [0.5, 0.5, 0.5],
+                "spectral": [0.1, 0.1, 0.1],
+                "spectral_p": 1
+            }
+        }
+    ],
+    "lights": [
+        {
+            "type": "point",
+            "position": [5, 0, 15],
+            "color": [1, 1, 1]
+        }
+    ]
+}
